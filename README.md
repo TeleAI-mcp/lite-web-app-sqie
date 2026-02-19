@@ -1,2 +1,3 @@
-# lite-web-app-sqie
-A web application for modern development workflows
+# Lite Web App Sqie
+
+A web application for modern development workflows.
